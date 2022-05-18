@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83789" started-at="2022-05-18T18:31:46 IST" finished-at="2022-05-18T18:33:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83789" started-at="2022-05-18T18:31:46 IST" finished-at="2022-05-18T18:33:10 IST">
+      <class name="screentest.test.ScreenTest1">
+        <test-method status="PASS" signature="SetUp_method()[pri:0, instance:screentest.test.ScreenTest1@e52dcd]" name="SetUp_method" duration-ms="83578" started-at="2022-05-18T18:31:46 IST" finished-at="2022-05-18T18:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp_method -->
+      </class> <!-- screentest.test.ScreenTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
